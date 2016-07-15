@@ -17,9 +17,16 @@
 
 
 
+
+
+
 /*: question2
  ### 2. What is the type of the dictionary you created in Question 1?
  */
+
+
+
+
 
 
 
@@ -32,10 +39,18 @@
 
 
 
+
+
+
+
 /*: question4
  ### 4. Unwrap `capital` and print out the message "The capital of Florida is <Capital>" to the console.
  */
 // write your code here
+
+
+
+
 
 
 
@@ -48,10 +63,18 @@
 
 
 
+
+
+
+
 /*: question6
  ### 6. Unwrap `anotherCapital` and print out the message "I don't know Pennsylvania's capital" to the console.
  */
 // write your code here
+
+
+
+
 
 
 
@@ -64,10 +87,18 @@
 
 
 
+
+
+
+
 /*: question8
  ### 8. Retrieve Pennsylvania's capital from your dictionary. Unwrap it and print the message "Pennsylvania's capital is <Capital>" to the console.
  */
 // write your code here
+
+
+
+
 
 
 
@@ -80,11 +111,19 @@
 
 
 
+
+
+
+
 /*: question10
  ### 10. You have been given the constant `state` with a state name. Use that constant to retrieve the state's capital from the dictionary. Print "The capital of <State> is <Capital>" to the console.
  */
 let state = "New York"
 // write your code here
+
+
+
+
 
 
 
@@ -104,9 +143,19 @@ let state = "New York"
 
 
 
+
+
+
+
+
+
 /*: question12
  ### 12. What is the type of the dictionary you created in Question 11?
  */
+
+
+
+
 
 
 
@@ -120,7 +169,10 @@ let bandName = "Pixies"
 
 
 
-/*:
- [Solution](solution)
- */
-// ❤️
+
+
+
+
+
+
+
