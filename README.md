@@ -4,12 +4,9 @@
 
 > Often it isn't the mountains ahead that wear you out, it's the little pebble in your shoe. -[Muhammad Ali](https://en.wikipedia.org/wiki/Muhammad_Ali)
 
-## Learning Objectives 
+## Overview 
 
-* Make dictionaries
-* Access elements in the dictionary
-* Update the value with a key
-* Recognize when they should use a dictionary
+In this lab, you'll create dictionaries and access and update the elements in them. 
 
 ## Instructions
 
